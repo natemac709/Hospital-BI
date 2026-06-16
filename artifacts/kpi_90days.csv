@@ -1,0 +1,5 @@
+metric,value,notes
+Admissions,800,Distinct admissions (last 90d)
+Avg LOS (days),3.5,Excludes active; admits last 90d
+LWBS %,3.1,ed_visits.dispo = LWBS; last 90d
+Avg Door-to-Doc (min),29,Mean DTD (>=0); last 90d

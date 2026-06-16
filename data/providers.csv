@@ -1,0 +1,6 @@
+provider_id,dept,specialty,npi
+2001,Medicine,Hospitalist,1111111111
+2002,Cardiology,Cardiologist,2222222222
+2003,Pulm,Pulmonology,3333333333
+2004,ED,ED,4444444444
+2005,OBGYN,General,5555555555
