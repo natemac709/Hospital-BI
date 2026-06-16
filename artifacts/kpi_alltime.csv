@@ -1,0 +1,5 @@
+metric,value,notes
+Admissions,800,Distinct admissions (admission_id)
+Avg LOS (days),3.5,Excludes active (null discharge_dt)
+LWBS %,3.1,ed_visits.dispo = LWBS
+Avg Door-to-Doc (min),29,Mean of ed_visits.door_to_doc_min (>=0)

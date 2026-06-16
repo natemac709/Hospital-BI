@@ -1,0 +1,230 @@
+Section,Metric,Value
+Admissions by day,2025-10-01,15
+Admissions by day,2025-10-02,11
+Admissions by day,2025-10-03,9
+Admissions by day,2025-10-04,17
+Admissions by day,2025-10-05,11
+Admissions by day,2025-10-06,9
+Admissions by day,2025-10-07,11
+Admissions by day,2025-10-08,8
+Admissions by day,2025-10-09,13
+Admissions by day,2025-10-10,9
+Admissions by day,2025-10-11,10
+Admissions by day,2025-10-12,14
+Admissions by day,2025-10-13,7
+Admissions by day,2025-10-14,7
+Admissions by day,2025-10-15,10
+Admissions by day,2025-10-16,6
+Admissions by day,2025-10-17,6
+Admissions by day,2025-10-18,9
+Admissions by day,2025-10-19,19
+Admissions by day,2025-10-20,9
+Admissions by day,2025-10-21,8
+Admissions by day,2025-10-22,11
+Admissions by day,2025-10-23,15
+Admissions by day,2025-10-24,9
+Admissions by day,2025-10-25,13
+Admissions by day,2025-10-26,10
+Admissions by day,2025-10-27,10
+Admissions by day,2025-10-28,5
+Admissions by day,2025-10-29,6
+Admissions by day,2025-10-30,13
+Admissions by day,2025-10-31,6
+Admissions by day,2025-11-01,18
+Admissions by day,2025-11-02,9
+Admissions by day,2025-11-03,8
+Admissions by day,2025-11-04,16
+Admissions by day,2025-11-05,8
+Admissions by day,2025-11-06,10
+Admissions by day,2025-11-07,12
+Admissions by day,2025-11-08,14
+Admissions by day,2025-11-09,12
+Admissions by day,2025-11-10,11
+Admissions by day,2025-11-11,13
+Admissions by day,2025-11-12,12
+Admissions by day,2025-11-13,7
+Admissions by day,2025-11-14,12
+Admissions by day,2025-11-15,8
+Admissions by day,2025-11-16,9
+Admissions by day,2025-11-17,11
+Admissions by day,2025-11-18,12
+Admissions by day,2025-11-19,14
+Admissions by day,2025-11-20,6
+Admissions by day,2025-11-21,10
+Admissions by day,2025-11-22,6
+Admissions by day,2025-11-23,17
+Admissions by day,2025-11-24,7
+Admissions by day,2025-11-25,11
+Admissions by day,2025-11-26,11
+Admissions by day,2025-11-27,8
+Admissions by day,2025-11-28,8
+Admissions by day,2025-11-29,14
+Admissions by day,2025-11-30,11
+Admissions by day,2025-12-01,8
+Admissions by day,2025-12-02,8
+Admissions by day,2025-12-03,10
+Admissions by day,2025-12-04,19
+Admissions by day,2025-12-05,14
+Admissions by day,2025-12-06,8
+Admissions by day,2025-12-07,5
+Admissions by day,2025-12-08,11
+Admissions by day,2025-12-09,15
+Admissions by day,2025-12-10,9
+Admissions by day,2025-12-11,5
+Admissions by day,2025-12-12,10
+Admissions by day,2025-12-13,13
+Admissions by day,2025-12-14,13
+Admissions by day,2025-12-15,11
+Average LOS,avg_los_days,3.49
+30-day readmissions,readmit_pairs,305
+Top diagnoses,I10,90
+Top diagnoses,I21.9,59
+Top diagnoses,I50.9,92
+Top diagnoses,I63.9,77
+Top diagnoses,J06.9,79
+Top diagnoses,J18.9,70
+Top diagnoses,J44.1,92
+Top diagnoses,K52.9,83
+Top diagnoses,N39.0,82
+Top diagnoses,R07.9,76
+Discharge mix,Expired,18 (2.5%)
+Discharge mix,Home,587 (81.0%)
+Discharge mix,SNF,50 (6.9%)
+Discharge mix,Transfer,70 (9.7%)
+ED LWBS rate by day,2025-10-15,0.0
+ED LWBS rate by day,2025-10-16,0.032
+ED LWBS rate by day,2025-10-17,0.067
+ED LWBS rate by day,2025-10-18,0.05
+ED LWBS rate by day,2025-10-19,0.043
+ED LWBS rate by day,2025-10-20,0.087
+ED LWBS rate by day,2025-10-21,0.038
+ED LWBS rate by day,2025-10-22,0.033
+ED LWBS rate by day,2025-10-23,0.069
+ED LWBS rate by day,2025-10-24,0.0
+ED LWBS rate by day,2025-10-25,0.036
+ED LWBS rate by day,2025-10-26,0.038
+ED LWBS rate by day,2025-10-27,0.0
+ED LWBS rate by day,2025-10-28,0.061
+ED LWBS rate by day,2025-10-29,0.04
+ED LWBS rate by day,2025-10-30,0.0
+ED LWBS rate by day,2025-10-31,0.0
+ED LWBS rate by day,2025-11-01,0.0
+ED LWBS rate by day,2025-11-02,0.0
+ED LWBS rate by day,2025-11-03,0.045
+ED LWBS rate by day,2025-11-04,0.038
+ED LWBS rate by day,2025-11-05,0.04
+ED LWBS rate by day,2025-11-06,0.1
+ED LWBS rate by day,2025-11-07,0.026
+ED LWBS rate by day,2025-11-08,0.0
+ED LWBS rate by day,2025-11-09,0.091
+ED LWBS rate by day,2025-11-10,0.05
+ED LWBS rate by day,2025-11-11,0.0
+ED LWBS rate by day,2025-11-12,0.094
+ED LWBS rate by day,2025-11-13,0.0
+ED LWBS rate by day,2025-11-14,0.04
+ED LWBS rate by day,2025-11-15,0.056
+ED LWBS rate by day,2025-11-16,0.0
+ED LWBS rate by day,2025-11-17,0.05
+ED LWBS rate by day,2025-11-18,0.094
+ED LWBS rate by day,2025-11-19,0.0
+ED LWBS rate by day,2025-11-20,0.0
+ED LWBS rate by day,2025-11-21,0.0
+ED LWBS rate by day,2025-11-22,0.053
+ED LWBS rate by day,2025-11-23,0.0
+ED LWBS rate by day,2025-11-24,0.095
+ED LWBS rate by day,2025-11-25,0.037
+ED LWBS rate by day,2025-11-26,0.038
+ED LWBS rate by day,2025-11-27,0.0
+ED LWBS rate by day,2025-11-28,0.0
+ED LWBS rate by day,2025-11-29,0.0
+ED LWBS rate by day,2025-11-30,0.059
+ED LWBS rate by day,2025-12-01,0.027
+ED LWBS rate by day,2025-12-02,0.0
+ED LWBS rate by day,2025-12-03,0.0
+ED LWBS rate by day,2025-12-04,0.0
+ED LWBS rate by day,2025-12-05,0.053
+ED LWBS rate by day,2025-12-06,0.036
+ED LWBS rate by day,2025-12-07,0.08
+ED LWBS rate by day,2025-12-08,0.0
+ED LWBS rate by day,2025-12-09,0.05
+ED LWBS rate by day,2025-12-10,0.043
+ED LWBS rate by day,2025-12-11,0.0
+ED LWBS rate by day,2025-12-12,0.0
+ED LWBS rate by day,2025-12-13,0.0
+ED LWBS rate by day,2025-12-14,0.0
+Door-to-Doc avg by day,2025-10-15,29.3
+Door-to-Doc avg by day,2025-10-16,24.3
+Door-to-Doc avg by day,2025-10-17,24.9
+Door-to-Doc avg by day,2025-10-18,27.6
+Door-to-Doc avg by day,2025-10-19,28.7
+Door-to-Doc avg by day,2025-10-20,29.0
+Door-to-Doc avg by day,2025-10-21,30.1
+Door-to-Doc avg by day,2025-10-22,28.3
+Door-to-Doc avg by day,2025-10-23,25.5
+Door-to-Doc avg by day,2025-10-24,29.9
+Door-to-Doc avg by day,2025-10-25,25.5
+Door-to-Doc avg by day,2025-10-26,33.2
+Door-to-Doc avg by day,2025-10-27,28.8
+Door-to-Doc avg by day,2025-10-28,29.7
+Door-to-Doc avg by day,2025-10-29,31.8
+Door-to-Doc avg by day,2025-10-30,29.5
+Door-to-Doc avg by day,2025-10-31,30.3
+Door-to-Doc avg by day,2025-11-01,28.0
+Door-to-Doc avg by day,2025-11-02,29.0
+Door-to-Doc avg by day,2025-11-03,26.3
+Door-to-Doc avg by day,2025-11-04,30.0
+Door-to-Doc avg by day,2025-11-05,31.0
+Door-to-Doc avg by day,2025-11-06,32.1
+Door-to-Doc avg by day,2025-11-07,30.4
+Door-to-Doc avg by day,2025-11-08,31.4
+Door-to-Doc avg by day,2025-11-09,29.5
+Door-to-Doc avg by day,2025-11-10,30.1
+Door-to-Doc avg by day,2025-11-11,28.3
+Door-to-Doc avg by day,2025-11-12,30.6
+Door-to-Doc avg by day,2025-11-13,25.0
+Door-to-Doc avg by day,2025-11-14,28.8
+Door-to-Doc avg by day,2025-11-15,34.3
+Door-to-Doc avg by day,2025-11-16,30.1
+Door-to-Doc avg by day,2025-11-17,29.5
+Door-to-Doc avg by day,2025-11-18,31.3
+Door-to-Doc avg by day,2025-11-19,29.9
+Door-to-Doc avg by day,2025-11-20,28.4
+Door-to-Doc avg by day,2025-11-21,33.4
+Door-to-Doc avg by day,2025-11-22,32.5
+Door-to-Doc avg by day,2025-11-23,30.7
+Door-to-Doc avg by day,2025-11-24,28.6
+Door-to-Doc avg by day,2025-11-25,28.4
+Door-to-Doc avg by day,2025-11-26,26.5
+Door-to-Doc avg by day,2025-11-27,33.6
+Door-to-Doc avg by day,2025-11-28,28.5
+Door-to-Doc avg by day,2025-11-29,28.8
+Door-to-Doc avg by day,2025-11-30,28.1
+Door-to-Doc avg by day,2025-12-01,29.6
+Door-to-Doc avg by day,2025-12-02,30.7
+Door-to-Doc avg by day,2025-12-03,26.7
+Door-to-Doc avg by day,2025-12-04,26.3
+Door-to-Doc avg by day,2025-12-05,32.3
+Door-to-Doc avg by day,2025-12-06,31.6
+Door-to-Doc avg by day,2025-12-07,30.7
+Door-to-Doc avg by day,2025-12-08,24.8
+Door-to-Doc avg by day,2025-12-09,32.8
+Door-to-Doc avg by day,2025-12-10,30.3
+Door-to-Doc avg by day,2025-12-11,27.8
+Door-to-Doc avg by day,2025-12-12,26.8
+Door-to-Doc avg by day,2025-12-13,35.6
+Door-to-Doc avg by day,2025-12-14,25.5
+Payer mix,Commercial,115 (14.4%)
+Payer mix,Medicaid,459 (57.4%)
+Payer mix,Medicare,189 (23.6%)
+Payer mix,Self-pay,37 (4.6%)
+Equity: DTD by ward,Ward 1,29.3 | n=84000
+Equity: DTD by ward,Ward 4,29.3 | n=105000
+Equity: DTD by ward,Ward 5,29.3 | n=132000
+Equity: DTD by ward,Ward 6,29.3 | n=121500
+Equity: DTD by ward,Ward 7,29.3 | n=240000
+Equity: DTD by ward,Ward 8,29.3 | n=213000
+KPI summary,admits,800
+KPI summary,avg_los_days,3.49
+KPI summary,readmit_pairs,305
+KPI summary,lwbs_rate,0.031
+KPI summary,avg_door_to_doc,29.3
